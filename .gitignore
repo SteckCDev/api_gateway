@@ -1,0 +1,32 @@
+# OS
+.DS_Store/
+
+# IDE project settings
+.idea/
+.vscode/
+
+# Virtual environments
+venv/
+.venv/
+.lvenv/
+
+# Python and 3-party tools caches
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache
+
+# Local running
+.env
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
